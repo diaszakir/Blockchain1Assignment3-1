@@ -14,7 +14,7 @@ contract MyToken is ERC20, Ownable {
     
     Transaction[] public transactions;
     
-    constructor() ERC20("AITUSynergyToken", "AST") Ownable(msg.sender) {
+    constructor() ERC20("AITUSE-2320", "ATE") Ownable(msg.sender) {
         _mint(msg.sender, 2000 * 10**18);
     }
     
