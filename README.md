@@ -5,7 +5,9 @@
 _Assignment 3 Part 1_
 
 Dias Zakir SE-2320
+
 Anvar Tamabayev SE-2320
+
 Danel Kanbakova SE-2320
 
 # ERC-20 Token Implementation
